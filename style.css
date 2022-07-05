@@ -99,7 +99,7 @@ button {
 }
 
 .part-2{
-        background-image: url("/images/part2bg.png");
+        background: url("/images/part2bg.png");
         background-repeat: no-repeat;
         position: absolute;
         width: 90rem;
@@ -179,7 +179,7 @@ button {
         height: 19.25rem;
         left: 1.8rem;
         top: 1.8rem;
-        background: url("/images/item1.png");
+        background-image: url("/images/item1.png");
         border-radius: 1rem;
 }
 
