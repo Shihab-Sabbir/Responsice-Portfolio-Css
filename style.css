@@ -104,7 +104,7 @@ button {
         background: url("./images/part2bg.png");
         background-repeat: no-repeat;
         position: absolute;
-        width: 100rem;
+        width: 103rem;
         height: 37.5rem;
         left: 0rem;
         top: 56.4rem;
@@ -258,7 +258,7 @@ margin: auto;
 .footer-bottom
 {
     position: relative;
-    width: 100%;
+    width: 103rem;
     height: 15rem;
     top: 5rem;
     left: 0rem;
