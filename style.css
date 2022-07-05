@@ -4,6 +4,12 @@ body {
     overflow-x: hidden;
     margin: 0rem;
 }
+html,
+body {
+    height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
+}
+
 @media (max-width:720px) {
     html {
         font-size: 50%;
